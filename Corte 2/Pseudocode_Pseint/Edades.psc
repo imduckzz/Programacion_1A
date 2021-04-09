@@ -1,5 +1,5 @@
 Algoritmo edades
-	Escribir 'ingrese su nombre'
+	Escribir 'ingrese el nombre'
 	Leer nom
 	Escribir ' Año de nacimiento'
 	Leer anac
