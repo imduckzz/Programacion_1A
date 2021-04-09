@@ -12,10 +12,6 @@ Algoritmo Calc_v2
 	Escribir 'Digite el segundo numero: '
 	Leer n2
 	// 4. Proceso(s)
-	sum <- n1+n2
-	res <- n1-n2
-	mul <- n1*n2
-	div <- n1/n2
 	// 5. Salidas
 	Escribir 'La suma es: ',sum n1+n2
 	Escribir 'La resta es: ',res n1-n2
