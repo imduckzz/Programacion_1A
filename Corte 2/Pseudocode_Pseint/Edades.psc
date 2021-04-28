@@ -1,9 +1,9 @@
 Algoritmo edades
 	Escribir 'ingrese el nombre'
 	Leer nom
-	Escribir ' AÃ±o de nacimiento'
+	Escribir ' Año de nacimiento'
 	Leer anac
-	Escribir 'AÃ±o actual'
+	Escribir 'Año actual'
 	Leer aact
-	Escribir ' La edad de ' nom ' es ' aact-anac 
+	Escribir ' La edad de ' nom ' es ' aact-anac
 FinAlgoritmo
